@@ -1,5 +1,32 @@
-ESP32.ino contain code for controller which send the data to the server.(Frontend)
+# ESP32 IoT Monitoring System
 
-index.html it is web page that show all the sensor data it is kind of dashboard.
+An IoT-based monitoring system developed using ESP32 with a web-based interface.
 
-server.js is the java script that handle all the backend
+## Features
+
+- ESP32-based IoT system
+- Web-based monitoring dashboard
+- Real-time sensor data
+- Temperature and humidity monitoring
+- Gas monitoring
+- ESP32 web server
+- JavaScript-based real-time data updates
+
+## Technologies Used
+
+- ESP32
+- Arduino/C++
+- HTML
+- CSS
+- JavaScript
+- IoT
+- Web Server
+
+## Project Structure
+
+```text
+ESP32-IoT-Project/
+├── ESP32-IoT-Project.ino
+├── index.html
+├── script.js
+└── README.md
